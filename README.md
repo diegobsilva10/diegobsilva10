@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Atualmente cursando Analise e Desenvolvimento de Sistemas 4º Semestre
-- ☕ Estudante FullStack Java - Spring boot - Angular - HTML5/CSS3 - Javascript - MySQL
+- ☕ Estudante FullStack Java pela Generation Brasil - Spring boot - Angular - HTML5/CSS3 - Javascript - MySQL
 - 💬 Contato: diegobdasilva12@gmail.com
 
  <div>
