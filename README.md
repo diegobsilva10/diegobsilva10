@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Atualmente cursando Analise e Desenvolvimento de Sistemas 4º Semestre
 - ☕ Estudante FullStack Java pela Generation Brasil - Spring boot - Angular - HTML5/CSS3 - Javascript - MySQL
-- 💬 Contato: diegobdasilva12@gmail.com
+- 💬 Contato: diegobdasilva12@goutlook.com
 
  <div>
   <a href="https://github.com/diegobsilva10">
