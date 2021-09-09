@@ -11,7 +11,7 @@
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diegobsilva10&layout=compact&langs_count= 16& true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-  ##
+<h3> Tecnologias que trabalho</h3><br>
 <img align="center" alt ="diego"  width="100"  src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
 <img align="center" alt ="diego" width="123" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img align="center" alt ="diego"  width = "117" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
