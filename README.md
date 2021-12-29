@@ -1,7 +1,7 @@
 ### Olá, eu sou o Diego Silva 👋
 
 
-- 👨‍🎓 Atualmente cursando Analise e Desenvolvimento de Sistemas 4º Semestre
+- 👨‍🎓 Formado Analise e Desenvolvimento de Sistemas 4º Semestre
 - ☕ Programador FullStak Java
 - 💬 Contato: diegobdasilva12@outlook.com
 
