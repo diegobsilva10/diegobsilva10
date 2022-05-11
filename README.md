@@ -4,6 +4,8 @@
 - 👨‍🎓 Formado Análise e Desenvolvimento de Sistemas
 - ☕ Programador FullStak Java
 - 💬 Contato: diegobdasilva12@outlook.com
+- 🥷 Atualmente trabalho na Accenture do Brasil LTDA
+como Analista Jr. Atuando na squad de Arquitetura integrando serviços através do Google Cloud APIGee
 
  <div>
   <a href="https://github.com/diegobsilva10">
