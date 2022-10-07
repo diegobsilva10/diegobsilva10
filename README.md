@@ -32,6 +32,8 @@ como Analista Jr. Atuando na squad de Arquitetura integrando serviços através 
  
  -----
  ### Redes Sociais
-  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-2479711a7)
-
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-2479711a7)
+ ----
+ ### Artigos 
+ [![mediun](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/me/stories/public)
 
