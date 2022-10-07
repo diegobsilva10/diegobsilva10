@@ -31,6 +31,8 @@ como Analista Jr. Atuando na squad de Arquitetura integrando serviços através 
  </div>
  
  -----
+ ### Redes Sociais
  <a href=" https://www.linkedin.com/in/diego-silva-2479711a7"> <img height ="25" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-2479711a7)
 
 
