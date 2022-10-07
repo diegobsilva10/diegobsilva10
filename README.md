@@ -36,4 +36,4 @@ como Analista Jr. Atuando na squad de Arquitetura integrando serviços através 
  ----
  ### Artigos 
  [![mediun](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/me/stories/public)
-
+ ----
