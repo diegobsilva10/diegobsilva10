@@ -30,7 +30,7 @@ como Analista Jr. Atuando na squad de Arquitetura integrando serviços através 
   <img align ="center" alt="diego" src ="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"><br><br>
  </div>
  
- -----
+ ----
  ### Redes Sociais
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-2479711a7)
  ----
