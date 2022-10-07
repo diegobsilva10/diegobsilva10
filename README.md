@@ -25,9 +25,9 @@ como Analista Jr. Atuando na squad de Arquitetura integrando serviços através 
   <img align="center" alt="diego"  src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align ="center" alt="diego" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align ="center" alt ="diego" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <br> <img align ="center" alt ="diego" src = "https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  
-  <br><img align ="center" alt="diego" src ="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <br>
+  <br> <img align ="center" alt ="diego" src = "https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">   
+  <img align ="center" alt="diego" src ="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"><br><br>
  </div>
  
  -----
