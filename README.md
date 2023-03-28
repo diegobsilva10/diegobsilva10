@@ -4,8 +4,7 @@
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Java Back-End
 - 💬 Contato: diegobdasilva12@outlook.com
-- 🥷 Atualmente trabalho na Accenture do Brasil LTDA
-como Engenheiro de Software. Atuando na squad de Arquitetura integrando serviços através do Google Cloud APIGee e desenvolvendo orquestradores com Java
+- 🥷 Engenheiro de Software na Accenture do Brasil LTDA. Atuando na squad de Arquitetura integrando serviços através do Google Cloud APIGee e desenvolvendo orquestradores com Java
 
  <div>
   <a href="https://github.com/diegobsilva10">
