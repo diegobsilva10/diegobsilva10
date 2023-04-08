@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diego Silva 👋
 
- - Atualmente trabalho como Engenheiro de Software na Accenture do Brasil LTDA.
+  Atualmente trabalho como Engenheiro de Software na Accenture do Brasil LTDA.
 
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
