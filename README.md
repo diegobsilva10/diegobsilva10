@@ -1,10 +1,12 @@
 ### Olá, eu sou o Diego Silva 👋
 
+ - Atualmente trabalho como Engenheiro de Software na Accenture do Brasil LTDA.
+
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvedor Java Back-End
+- 💻 Engenheiro de Software na Accenture Brasil
+- 📚 Estudando Spring Framework, Microsserviços, Microsoft Azure
 - 💬 Contato: diegobdasilva12@outlook.com
-- 🥷 Engenheiro de Software na Accenture do Brasil LTDA. Atuando na squad de Arquitetura integrando serviços através do Google Cloud APIGee e desenvolvendo orquestradores com Java
 
  <div>
   <a href="https://github.com/diegobsilva10">
