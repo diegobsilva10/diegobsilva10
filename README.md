@@ -13,7 +13,7 @@
    <img heigh= "10em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diegobsilva10&layout=compact&theme=tokyonight"/>
 </div>
   
-<h3> Tecnologias que trabalho</h3><br>
+<h3>Habilidades</h3><br>
  <div>
   <img align="center" alt ="diego" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
   <img align="center" alt ="diego" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
