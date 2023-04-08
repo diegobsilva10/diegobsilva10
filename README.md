@@ -3,7 +3,7 @@
   Atualmente trabalho como Engenheiro de Software na Accenture do Brasil LTDA.
 
 
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
 - 💻 Engenheiro de Software na Accenture Brasil
 - 📚 Estudando Spring Framework, Microsserviços, Microsoft Azure
 - 💬 Contato: diegobdasilva12@outlook.com
