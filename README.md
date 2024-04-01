@@ -4,7 +4,6 @@
 
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
-- 💻 Engenheiro de Software na Accenture Brasil
 - 💬 Contato: diegobdasilva12@outlook.com
 
  <div>
